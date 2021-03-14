@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+My 2nd slide created by pull action
 Use the left arrow to go back!
